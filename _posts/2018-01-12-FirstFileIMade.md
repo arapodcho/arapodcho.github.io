@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gitbug pages에 올리는 첫 글"
+title: "First Post"
 date: 2018-01-12 16:30
 ---
 
